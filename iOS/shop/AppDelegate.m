@@ -52,8 +52,8 @@
 	[UserModel			sharedInstance];
 
 	// 配置ECSHOP
-	[ServerConfig sharedInstance].url = @"http://shop.ecmobile.cn/ecmobile/?url=";
-
+	[ServerConfig sharedInstance].url = @"123.57.77.2/alidata/www/yl/ecmobile/?url=";
+    
 	// 配置闪屏
 	bee.services.wizard.config.showBackground = YES;
 	bee.services.wizard.config.showPageControl = YES;
