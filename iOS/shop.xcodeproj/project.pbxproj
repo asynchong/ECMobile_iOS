@@ -940,6 +940,9 @@
 		1848BD7918B4D8690007238A /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		1848BD7A18B4D8690007238A /* umFeedback.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = umFeedback.bundle; sourceTree = "<group>"; };
 		1848BD7B18B4D8690007238A /* UMFeedback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UMFeedback.h; sourceTree = "<group>"; };
+		22A229321B9ED40C0074A95E /* all_dev(1).mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = "all_dev(1).mobileprovision"; sourceTree = "<group>"; };
+		22A229331B9ED4110074A95E /* XC_Ad_Hoc_(1).mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = "XC_Ad_Hoc_(1).mobileprovision"; sourceTree = "<group>"; };
+		22A229341B9ED4170074A95E /* pengliudev.p12 */ = {isa = PBXFileReference; lastKnownFileType = file; path = pengliudev.p12; sourceTree = "<group>"; };
 		321E8D111936F6AC00C8143F /* B1_ProductListSearchBackgroundCell_iPhone.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = B1_ProductListSearchBackgroundCell_iPhone.xml; sourceTree = "<group>"; };
 		321E8D121936F6AC00C8143F /* B1_ProductListSearchBackgroundCell_iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = B1_ProductListSearchBackgroundCell_iPhone.m; sourceTree = "<group>"; };
 		321E8D131936F6AC00C8143F /* B1_ProductListSearchBackgroundCell_iPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = B1_ProductListSearchBackgroundCell_iPhone.h; sourceTree = "<group>"; };
@@ -2631,6 +2634,9 @@
 		63249C921754E07900372FD7 = {
 			isa = PBXGroup;
 			children = (
+				22A229341B9ED4170074A95E /* pengliudev.p12 */,
+				22A229331B9ED4110074A95E /* XC_Ad_Hoc_(1).mobileprovision */,
+				22A229321B9ED40C0074A95E /* all_dev(1).mobileprovision */,
 				9D67C7A01A4A7EA9003ABA05 /* framework */,
 				9D67C2191A4A7BBA003ABA05 /* services */,
 				CB60E56B179E2B360094F91C /* icon@2x.png */,
